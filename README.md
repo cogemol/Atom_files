@@ -1,2 +1,2 @@
-# ATtom-test Repo
+# Atom-Test Repo
 author: cogemol
